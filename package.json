@@ -1,11 +1,11 @@
 {
-  "name": "MERN-boilerplate",
+  "name": "InnoV8",
   "version": "1.0.0",
-  "description": "MERN stack project boilerplate",
-  "author": "Eugene Cheung",
+  "description": "Web Application for Hackathon",
+  "author": "Devendra Tiwari",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arkon/MERN-boilerplate.git"
+    "url": "git+https://github.com/daveRanjan/innoV8.git"
   },
   "license": "MIT",
   "private": true,
@@ -33,7 +33,6 @@
     "postcss-loader": "^2.1.3",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-flip-clock": "^1.0.4",
     "react-google-login": "^3.2.1",
     "react-hot-loader": "^4.0.0",
     "react-router": "^4.2.0",
